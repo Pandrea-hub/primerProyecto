@@ -1,0 +1,28 @@
+[2022-02-21 09:45:55.489] [exthost] [info] Extension host with pid 744 started
+[2022-02-21 09:45:55.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-21 09:45:55.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 09:45:55.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 09:45:55.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-21 09:45:55.672] [exthost] [info] Eager extensions activated
+[2022-02-21 09:45:55.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 09:45:55.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 09:45:55.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-21 09:46:05.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-21 09:46:05.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-21 09:46:05.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-21 09:46:28.915] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-21 09:46:28.920] [exthost] [info] Extension host with pid 744 exiting with code 0
+[2022-02-21 09:46:30.535] [exthost] [info] Extension host with pid 841 started
+[2022-02-21 09:46:30.535] [exthost] [info] Skipping acquiring lock for /home/pandrea_15/Platzi/personalProjects/proyectoDemoCursoPrework/User/workspaceStorage/6ba44d1de1d3431103a7dba99e572731.
+[2022-02-21 09:46:30.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-21 09:46:30.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 09:46:30.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 09:46:30.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-21 09:46:30.686] [exthost] [info] Eager extensions activated
+[2022-02-21 09:46:30.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 09:46:30.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 09:46:30.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-21 09:46:31.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-02-21 09:46:35.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-21 09:47:02.564] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-21 09:47:02.570] [exthost] [info] Extension host with pid 841 exiting with code 0
